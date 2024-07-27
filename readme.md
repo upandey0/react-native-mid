@@ -46,3 +46,14 @@
 
 
 <b> The Array you are seeing in table is JSON  so consider it before inserting data.</b>
+
+![Screenshot of the app](output/1.jpeg)
+![Screenshot of the app](output/2.jpeg)
+![Screenshot of the app](output/3.jpeg)
+![Screenshot of the app](output/4.jpeg)
+![Screenshot of the app](output/5.jpeg)
+![Screenshot of the app](output/6.jpeg)
+![Screenshot of the app](output/7.jpeg)
+![Screenshot of the app](output/8.jpeg)
+
+
